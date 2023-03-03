@@ -48,17 +48,18 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 
 ## Education
-**XYZ university (2012-2016)**, Bachelor of Applied Sciences, Electrical and Computer Engineering
+**Humber College (2020-2022)**, Information Technology Solutions, Applied Science and Technology
 - Scholarship
-- Dean's List (2015, 2016): Ut enim ad minim veniam
-- GPA: 3.8/4.0
+- Dean's List (2020, 2022): Ut enim ad minim veniam
+- GPA: 3.6/4.0
 
-**XYZ university (2016-2018)**, Master of Engineering, Electrical and Computer Engineering
+**Chandigarh Group of College (2015-2019)**, Bachelors of Engineering, Computer Science and Engineering
 
 
 ## Miscellaneous
-- Udacity Machine Learning (2019)
+- Microsoft Azure 104 Administration
+- Google Technical Support
 - Winner
-- Basketball player
-- Competitive gaming
-- Volunteer, ABC Food bank: Ut enim ad minim veniam
+- Football player
+- Competitive gamer
+- Anime fan
