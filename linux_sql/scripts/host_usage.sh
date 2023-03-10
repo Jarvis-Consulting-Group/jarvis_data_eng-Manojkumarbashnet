@@ -26,6 +26,6 @@ echo $timestamp
 host_id="(SELECT id FROM host_info WHERE hostname='$hostname')";
 insert_stmt="INSERT INTO host_usage(timestamp,host_id,memory_free,cpu_idel,cpu_kernel,disk_io,disk_available)
              VALUES('$timestamp',$host_id,'$memory_free','$cpu_idle','$cpu_kernel','$disk_io','$disk_available')"
-pexport PGPASSWORD=$psql_password
+export PGPASSWORD=$psql_password
  psql -h $psql_host -p $psql_port -d $db_name -U $psql_user -c "$insert_stmt"
  exit $?
