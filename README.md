@@ -15,12 +15,14 @@ Diligent software engineer with 2 years of experience in commercial application 
 Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-Manojkumarbashnet](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-Manojkumarbashnet)
 
 
-**Cluster Monitor** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-Manojkumarbashnet/tree/master/linux_sql)]: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**Cluster Monitor** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-Manojkumarbashnet/tree/master/linux_sql)]: A Linux clustering agent is a minimal viable product that seeks to keep track of the resources consumed by each node in the cluster as well as their hardware requirements.In this project, a psql instance is created using docker, and bash scripts are then used to perform commands to obtain hardware information and node memory utilisation.
+By creating a PostgreSQL database connection, the data collected by bash scripts is added to the PostgreSQL database.
 
 **Core Java Apps** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-Manojkumarbashnet/tree/master/core_java)]:
       
   - Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-  - JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
+  - JDBC App: This Core Java JDBC app involved learning and experimenting with the JDBC API by creating a basic 
+Java application that would perform CRUD (CREATE, READ, UPDATE, and DELETE) operations on an existing dataset within a database. 
   - Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
 
 **Springboot App** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-Manojkumarbashnet/tree/master/springboot)]: Not Started
