@@ -44,7 +44,7 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 **Software Developer, Jarvis (2020-present)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
 
-**Research & Development Developer, Tecsys  (2019)**:
+**Research & Development Developer, Tecsys  (2022)**:
 - Worked under the API team on Omni retail Agile system through Azure DevOps 
 - Worked on a New React-based web application for Order System (Order Dynamics)
 -	Collaborated on various areas of Azure like Azure Active Directory, App Services, Azure SQL, Azure Storages like CDN, BLOB
