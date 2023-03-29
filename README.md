@@ -60,7 +60,7 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 - Dean's List (2020, 2022)
 - GPA: 3.6/4.0
 
-**Chandigarh Group of College (2015-2019)**, Bachelors of Engineering, Computer Science and Engineering
+**Chandigarh Group of College (2015-2019)**, Bachelors Degree, Computer Science and Engineering
 
 
 ## Miscellaneous
