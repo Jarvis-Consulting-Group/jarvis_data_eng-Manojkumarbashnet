@@ -67,5 +67,4 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 - Azure Administrator 104(2022)
 - Google Technical Support(2022)
 - Soccer player
-- Competitive gamer
 - Anime fan
