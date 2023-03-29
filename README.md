@@ -4,11 +4,11 @@ Diligent software engineer with 2 years of experience in commercial application 
 
 ## Skills
 
-**Proficient:** Java, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git, C#
+**Proficient:**  C#, JavaScript, JSON, React, Java, Python, XML, SQL, Node.js, PHP, jQuery, Bootstrap, HTML, WordPress, Cake, Laravel
 
 **Competent:** Object-Oriented Design (OOD), Cloud computing, Data structures and algorithms, Web development, Object-oriented programming (OOP) languages
 
-**Familiar:** Kubernetes, Andriod development, React Web applications, Jenkins, Terraform
+**Familiar:**  Tableau, Jira, Jira Confluence Visual Studio Code, Android Studio, SQL Server Management Studio, Postman, Oracle Virtual Box, NetBeans, Eclipse
 
 ## Jarvis Projects
 
@@ -44,9 +44,19 @@ Java application that would perform CRUD (CREATE, READ, UPDATE, and DELETE) oper
 
 ## Professional Experiences
 
-**Software Developer, Jarvis (2020-present)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
+**Software Developer, Jarvis (2023-present)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
 
-**Tutor, XYZ Company (2019)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
+**Research & Development Developer	,Tecsys (2022)**: 
+•	Worked under the API team on Omni retail Agile system through Azure DevOps 
+•	Worked on a New React-based web application for Order System (Order Dynamics)
+•	Collaborated on various areas of Azure like Azure Active Directory, App Services, Azure SQL, Azure Storages like CDN, BLOB
+•	Dealt with Internal and External APIs Testing and configuration 
+•	Performed weekly sprint tasks in the ongoing retail system 
+•	Code Enhancements on the centralized Order system
+•	Integration Testing and Debugging solutions methods 
+•	Implemented Q/A Acceptance and Postman test cases
+•	Worked extensively on Azure Active directory and on-premise Active directory
+•	Involved in a scrum to represent the scrum team, sprint planning & sprint review
 
 
 ## Education
@@ -59,9 +69,6 @@ Java application that would perform CRUD (CREATE, READ, UPDATE, and DELETE) oper
 
 
 ## Miscellaneous
-- Microsoft Azure 104 Administration
-- Google Technical Support
-- Winner
 - Football player
 - Competitive gamer
 - Anime fan
