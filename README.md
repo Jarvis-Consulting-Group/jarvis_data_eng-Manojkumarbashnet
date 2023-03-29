@@ -37,8 +37,6 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 ## Highlighted Projects
 **Branddeal** [[GitHub](https://github.com/jarviscanada/jarvis_profile_builder)]:Designed and developed web applications for users to find the latest deals in the Market using React (9), MySQL, JavaScript, and jQuery that basically collect data from different APi's and compare different price structure including extra cost.
 
-**Machine Learning**: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
-
 
 ## Professional Experiences
 
@@ -66,6 +64,8 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 
 ## Miscellaneous
+- Azure Administrator 104(2022)
+- Google Technical Support(2022)
 - Soccer player
 - Competitive gamer
 - Anime fan
