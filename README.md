@@ -25,7 +25,7 @@ By creating a PostgreSQL database connection, the data collected by bash scripts
 Java application that would perform CRUD (CREATE, READ, UPDATE, and DELETE) operations on an existing dataset within a database. 
   - Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
 
-**Springboot App** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-Manojkumarbashnet/tree/master/springboot)]: Not Started
+<!-- **Springboot App** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-Manojkumarbashnet/tree/master/springboot)]: Not Started
 
 **Python Data Analytics** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-Manojkumarbashnet/tree/master/python_data_anlytics)]: Not Started
 
@@ -33,13 +33,11 @@ Java application that would perform CRUD (CREATE, READ, UPDATE, and DELETE) oper
 
 **Spark** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-Manojkumarbashnet/tree/master/spark)]: Not Started
 
-**Cloud/DevOps** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-Manojkumarbashnet/tree/master/cloud_devops)]: Not Started
+**Cloud/DevOps** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-Manojkumarbashnet/tree/master/cloud_devops)]: Not Started -->
 
 
 ## Highlighted Projects
-**Web app for resturant** [[GitHub](https://github.com/jarviscanada/jarvis_profile_builder)]: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
-
-**Machine Learning**: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**Branddeal** [[GitHub](https://github.com/jarviscanada/jarvis_profile_builder)]:Designed and developed web applications for users to find the latest deals in the Market using React (9), MySQL, JavaScript, and jQuery that basically collect data from different APi's and compare different price structure including extra cost.
 
 
 ## Professional Experiences
@@ -62,10 +60,10 @@ Java application that would perform CRUD (CREATE, READ, UPDATE, and DELETE) oper
 ## Education
 **Humber College (2020-2022)**, Information Technology Solutions, Applied Science and Technology
 - Scholarship
-- Dean's List (2020, 2022): Ut enim ad minim veniam
+- Dean's List (2020, 2022)
 - GPA: 3.6/4.0
 
-**Chandigarh Group of College (2015-2019)**, Bachelors of Engineering, Computer Science and Engineering
+**Chandigarh Group of College (2015-2019)**, Bachelors Degree, Computer Science and Engineering
 
 
 ## Miscellaneous
