@@ -4,24 +4,26 @@ Diligent software engineer with 2 years of experience in commercial application 
 
 ## Skills
 
-**Proficient:** C#, JavaScript, JSON, React, Java, Python, XML, SQL, Node.js, PHP, jQuery, Bootstrap, HTML, WordPress, Cake, Laravel
+**Proficient:**  C#, JavaScript, JSON, React, Java, Python, XML, SQL, Node.js, PHP, jQuery, Bootstrap, HTML, WordPress, Cake, Laravel
 
 **Competent:** Object-Oriented Design (OOD), Cloud computing, Data structures and algorithms, Web development, Object-oriented programming (OOP) languages
 
-**Familiar:** Tableau, Jira, Jira Confluence, Visual Studio Code, Android Studio, SQL Server Management Studio, Postman, Oracle Virtual Box, NetBeans, Eclipse
+**Familiar:**  Tableau, Jira, Jira Confluence Visual Studio Code, Android Studio, SQL Server Management Studio, Postman, Oracle Virtual Box, NetBeans, Eclipse
 
 ## Jarvis Projects
 
 Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-Manojkumarbashnet](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-Manojkumarbashnet)
 
 
-**Cluster Monitor** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-Manojkumarbashnet/tree/master/linux_sql)]: A Linux clustering agent is a viable product that seeks to keep track of the resources consumed by each node in the cluster as well as their hardware requirements.In this project, a psql instance is created using docker, and bash scripts are then used to perform commands to obtain hardware information and node memory utilisation. By creating a PostgreSQL database connection, the data collected by bash scripts is added to the PostgreSQL database.
+**Cluster Monitor** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-Manojkumarbashnet/tree/master/linux_sql)]: A Linux clustering agent is a minimal viable product that seeks to keep track of the resources consumed by each node in the cluster as well as their hardware requirements.In this project, a psql instance is created using docker, and bash scripts are then used to perform commands to obtain hardware information and node memory utilisation.
+By creating a PostgreSQL database connection, the data collected by bash scripts is added to the PostgreSQL database.
 
 **Core Java Apps** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-Manojkumarbashnet/tree/master/core_java)]:
       
-  - Twitter App: In progress
-  - JDBC App: This Core Java JDBC app involved learning and experimenting with the JDBC API by creating a basic Java application that would perform CRUD (CREATE, READ, UPDATE, and DELETE) operations on an existing dataset within a database.
-  - Grep App: In progress
+  - Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
+  - JDBC App: This Core Java JDBC app involved learning and experimenting with the JDBC API by creating a basic 
+Java application that would perform CRUD (CREATE, READ, UPDATE, and DELETE) operations on an existing dataset within a database. 
+  - Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
 
 <!-- **Springboot App** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-Manojkumarbashnet/tree/master/springboot)]: Not Started
 
@@ -40,19 +42,20 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 ## Professional Experiences
 
-**Software Developer, Jarvis (2020-present)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
+**Software Developer, Jarvis (2023-present)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
 
-**Research & Development Developer, Tecsys  (2022)**:
-- Worked under the API team on Omni retail Agile system through Azure DevOps 
-- Worked on a New React-based web application for Order System (Order Dynamics)
--	Collaborated on various areas of Azure like Azure Active Directory, App Services, Azure SQL, Azure Storages like CDN, BLOB
--	Dealt with Internal and External APIs Testing and configuration 
--	Performed weekly sprint tasks in the ongoing retail system 
--	Code Enhancements on the centralized Order system
--	Integration Testing and Debugging solutions methods 
--	Implemented Q/A Acceptance and Postman test cases
--	Worked extensively on Azure Active directory and on-premise Active directory
--	Involved in a scrum to represent the scrum team, sprint planning & sprint review.
+**Research & Development Developer	,Tecsys (2022)**: 
+•	Worked under the API team on Omni retail Agile system through Azure DevOps 
+•	Worked on a New React-based web application for Order System (Order Dynamics)
+•	Collaborated on various areas of Azure like Azure Active Directory, App Services, Azure SQL, Azure Storages like CDN, BLOB
+•	Dealt with Internal and External APIs Testing and configuration 
+•	Performed weekly sprint tasks in the ongoing retail system 
+•	Code Enhancements on the centralized Order system
+•	Integration Testing and Debugging solutions methods 
+•	Implemented Q/A Acceptance and Postman test cases
+•	Worked extensively on Azure Active directory and on-premise Active directory
+•	Involved in a scrum to represent the scrum team, sprint planning & sprint review
+
 
 ## Education
 **Humber College (2020-2022)**, Information Technology Solutions, Applied Science and Technology
@@ -64,7 +67,6 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 
 ## Miscellaneous
-- Azure Administrator 104(2022)
-- Google Technical Support(2022)
-- Soccer player
+- Football player
+- Competitive gamer
 - Anime fan
