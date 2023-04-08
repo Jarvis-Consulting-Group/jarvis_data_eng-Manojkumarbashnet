@@ -8,7 +8,7 @@ Diligent software engineer with 2 years of experience in commercial application 
 
 **Competent:** Object-Oriented Design (OOD), Docker , Data structures and algorithms, MVC Frameworks
 
-**Familiar:** Tableau, Jira, Jira Confluence, Visual Studio Code, Android Studio, SQL Server Management Studio, Postman, Oracle Virtual Box, NetBeans, Eclipse
+**Familiar:** Tableau, Jira, Jira Confluence, Android Studio, SQL Server Management Studio, Postman, Oracle Virtual Box, IDE(intellij,VStudio)
 
 ## Jarvis Projects
 
