@@ -12,26 +12,37 @@ summary: Diligent software engineer with 2 years of experience in commercial app
 skills:
   # At least 5 skills
   proficient:
-    - Java
-    - Linux/Bash
-    - RDBMS/SQL
-    - Agile/Scrum
-    - Git
-    - C#
+   - C# 
+   - JavaScript 
+   - JSON
+   - React
+   - Java 
+   - Python
+   - XML
+   - SQL
+   - Node.js
+   - PHP
+   - jQuery
+   - Bootstrap
+   - HTML
+   - WordPress
+   - Cake
+   - Laravel
   # At least 5 skills
   competent:
     - Object-Oriented Design (OOD)
-    - Cloud computing
+    - Docker
     - Data structures and algorithms
-    - Web development
-    - Object-oriented programming (OOP) languages
+    - MVC Frameworks
   # At least 5 skills
   familiar:
-    - Kubernetes
+    - Tableau
     - Andriod development
     - React Web applications
-    - Jenkins
-    - Terraform
+    - Jira
+    - IDE(intellij,VStudio)
+    - Jira Confluence
+    - SQL Server Management Studio
 
 # List of Jarvis projects
 jarvis_projects:
@@ -39,41 +50,23 @@ jarvis_projects:
     git_url: "/linux_sql"
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+    description:  A Linux clustering agent is a viable product that seeks to keep track of the resources consumed by each node in the cluster as well as their hardware requirements. In this project, a PSQL instance is created using docker, and bash scripts are then used to perform commands to obtain hardware information and node memory utilization. By creating a PostgreSQL database connection, the data collected by bash scripts are added to the PostgreSQL database.
   - name: "Core Java Apps"
     git_url: "/core_java"
     description:
       - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      - "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-  - name: "Springboot App"
-    git_url: "/springboot"
-    description: ""
-  - name: "Python Data Analytics"
-    git_url: "/python_data_anlytics"
-    description: ""
-  - name: "Hadoop"
-    git_url: "/hadoop"
-    description: ""
-  - name: "Spark"
-    git_url: "/spark"
-    description: ""
-  - name: "Cloud/DevOps"
-    git_url: "/cloud_devops"
-    description: ""
+      - "JDBC App: This Core Java JDBC app involved learning and experimenting with the JDBC API by creating a basic Java application that would perform CRUD (CREATE, READ, UPDATE, and DELETE) operations on an existing dataset within a database."
+      - "Grep App: Developed a Java 8 project utilizing Maven to search for text lines that match a particular pattern in all files under a directory. The project involves two different search implementations, one utilizing for loops and the other using Java 8 Stream/Lambda functions to achieve superior performance. Additionally, a logger library was employed to provide feedback on the search process. The application is designed to export search results to a file utilizing Java IO APIs.  Finally, I deployed the project within a Docker container and uploaded it to Docker Hub to facilitate its distribution."
 
 # List of personal or academic projects
 # Feel free to add more projects
 highlighted_projects:
     #project name
-  - name: "Web app for resturant"
+  - name: "Branddeal"
     #URL is optional
-    git_url: "https://github.com/jarviscanada/jarvis_profile_builder"
+    # git_url: "https://github.com/jarviscanada/jarvis_profile_builder"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
-  - name: "Machine Learning"
-    git_url:
-    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+    description: Designed and developed web applications for users to find the latest deals in the Market using React (9), MySQL, JavaScript, and jQuery that collect data from different API's and compare different price structures including extra cost.
 
 #List of professional experience
 #The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
@@ -84,11 +77,19 @@ professional_experience:
     company: "Jarvis"
     duration: "2020-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis."
-  - title: "Tutor"
-    company: "XYZ Company"
-    duration: "2019"
-    description: "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis."
+    description: "Worked in a development environment that followed the Agile/Scrum methodology and developed the product while adhering to the agile framework guidelines.consulted with the development team and worked together to provide our clients with software solutions.Worked on a different software development projects professionally and gained useful knowledge. Worked with real-world, industry-standard technologies including Java, Docker, PostgreSQL, Bash Script, etc."
+  - title: "Research & Development Developer"
+    company: "Tecsys"
+    duration: "2022-2023"
+    description: "Worked with the API team on the Omni retail Agile system through Azure DevOps. Developed a new React-based web application for the Order System, Order Dynamics. Collaborated with various areas of Azure such as Azure Active Directory, App Services, Azure SQL, and Azure Storages like CDN, BLOB. Dealt with the testing and configuration of both internal and external APIs. Performed weekly sprint tasks in the ongoing retail system and made code enhancements to the centralized Order system. Integrated testing and debugging solutions methods.Implemented Q/A acceptance and Postman test cases. Worked extensively on Azure Active Directory and on-premises Active Directory, Actively involved in a scrum to represent the scrum team, sprint planning, and sprint review."
+- title: "Full Stack Developer(Intern)"
+    company: "Amintro"
+    duration: "2022"
+    description: "Revamped web application based on .NET MVC structure.Dealt with SSMS to configure and manipulate the database .performed weekly assessments on the application and implemented both server and client-side development. Worked on enhancing and fixing defects in the production system. optimized application response time by reducing code repetition by 20%.utilized knowledge of SQL and non-SQL databases, including MySQL, Postgres, and MongoDB."
+- title: "Web Developer"
+    company: "Redblink Ltd"
+    duration: "2019-2020"
+    description: "Responsible for designing the web design and rewriting the technical requirements for the website in accordance with the client's specifications. Worked on web development frameworks, including Apache, MySQL, React, Typescript, WordPress and Laravel. Ensured adherence to strict budgetary and scheduling guidelines to provide customers with high-quality and targeted UX/UI designs (ESNext). Additionally, investigated and resolved application issues for web-based programs that provided end-user support. Worked on developing a live scanner to detect site vulnerabilities or loopholes (code malfunctions)."
 
 #List of edcuation
 education: 
@@ -99,13 +100,13 @@ education:
     # optional
     awards_achievements: 
       - "Scholarship"
-      - "Dean's List (2020, 2022): Ut enim ad minim veniam"
+      - "Dean's List (2020, 2022)"
       - "GPA: 3.6/4.0"
   - school_name: "Chandigarh Group of College"
     duration: "2015-2019"
-    degree: "Bachelors of Engineering"
+    degree: "Bachelors Degree"
     department: "Computer Science and Engineering"
-    awards_achievements: 
+    # awards_achievements: 
       
 
 #Optional section
@@ -113,13 +114,12 @@ others:
     #category
   - title: "Certificates"
     bullets:
-      - "Microsoft Azure 104 Administration"
-      - "Google Technical Support" 
-  - title: "Awards"
-    bullets:
-      - "Winner"
+      - "Microsoft Azure 104 Administration (November 2022)"
+      - "Google Technical Support (July 2022)" 
+  # - title: "Awards"
+  #   bullets:
+  #     - "Winner"
   - title: "Activities/Hobbies"
     bullets:
-      - "Football player"
-      - "Competitive gamer"
+      - "Boston Pizza STC,(Kitchen Assistant Manager)"
       - "Anime fan"
