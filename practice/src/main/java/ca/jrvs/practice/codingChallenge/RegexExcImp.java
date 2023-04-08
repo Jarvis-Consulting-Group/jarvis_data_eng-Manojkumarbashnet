@@ -6,7 +6,6 @@ class RegexExcImp {
 
     public void main(String[] args) {
         regexEx file= new regexEx();
-file.matchJpeg()
     }
     public class regexEx implements RegexExc {
 
